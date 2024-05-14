@@ -3,8 +3,6 @@ function Hero() {
   return (
     <div className=" max-w-[1640px] m-auto p-4 " >
 
-
-
       <div className=' max-h-[500px] relative  w-full h-full overflow-hidden'>
         <h1 className=' absolute  text-[#fff] top-[25%]   text-[40px] sm:text-[55px] md:text-[70px]  font-bold p-6 w-full h-full'>
           The <span className=' text-[#f97316]'>Best</span>
