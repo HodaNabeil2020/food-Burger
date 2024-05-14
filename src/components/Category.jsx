@@ -4,6 +4,7 @@ import {categories} from '../data/data.js'
 function Category() {
   return (
     <div className=" max-w-[1640px] m-auto p-6">
+      
       <h2 className=" text-[#f97316]  my-[20px]  flex   text-[25px] md:text[30px]  font-bold justify-center items-center  tracking-[10px] "> Category </h2>
 
       <div className=" grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 " >
